@@ -1,0 +1,2 @@
+# Virtual-Operating-System-MOS-
+The project includes the simulation of a hypothetical machine on a host computer system, and the design and implementation of a MOS for the simulated computer. A large number of compute-bound, balanced, and I/O bound sample jobs have been created and run on the simulated system. The main purpose of this project is to understand different implementations in Operating System.
