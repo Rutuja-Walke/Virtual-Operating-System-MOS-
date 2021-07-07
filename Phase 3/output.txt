@@ -1,0 +1,46 @@
+I: 3 TI: 0 PI: 0
+IC: 2 TTC: 4 TTL: 4 LLC: 1 TLL: 1
+
+Hello World
+ALL GOOD :thumbsup:
+
+
+SI: 0 TI: 0 PI: 0
+IC: 10 TTC: 14 TTL: 15 LLC: 2 TLL: 2
+
+VIT
+VIIT
+LINE LIMIT EXCEEDED :x:
+
+
+SI: 2 TI: 2 PI: 0
+IC: 10 TTC: 15 TTL: 13 LLC: 3 TLL: 3
+
+VIT
+VIIT
+NOT SAME
+Time Limit Exceeded Error :x:
+
+SI: 0 TI: 0 PI: 0
+IC: 1 TTC: 1 TTL: 4 LLC: 0 TLL: 1
+
+
+OUT OF DATA ERROR :x:
+
+SI: 0 TI: 0 PI: 1
+IC: 1 TTC: 2 TTL: 4 LLC: 0 TLL: 1
+
+
+OPCODE ERROR :x:
+
+
+SI: 0 TI: 0 PI: 2
+IC: 1 TTC: 1 TTL: 15 LLC: 0 TLL: 3
+
+Operand Error :x:
+
+
+SI: 0 TI: 0 PI: 3
+IC: 2 TTC: 3 TTL: 7 LLC: 0 TLL: 2
+
+INVALID PAGE FAULT :x:

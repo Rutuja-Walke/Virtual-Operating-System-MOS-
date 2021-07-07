@@ -1,0 +1,217 @@
+#############  Operating System IS STARTED ############# 
+
+🕑 GLOBAL TIMER = [0] ..............
+No process in Ready Q
+$AMJ PCB created for job id  2 Next upcoming Card - P
+PCB= TTL4 TLL1 TTC0 LLC0
+EOF 0
+Start Channel 1 Current IOI value 4
+🕑 GLOBAL TIMER = [1] ..............
+No process in Ready Q
+Start Channel 3 Current IOI value 0
+Channel 3 performs IS on  $AMJ000200040001                        
+Encountered Control card $AMJ
+
+Loading new Job into Supervisory storage...!!!
+🕑 GLOBAL TIMER = [2] ..............
+No process in Ready Q
+🕑 GLOBAL TIMER = [3] ..............
+No process in Ready Q
+Channel No 3 is done 
+
+🕑 GLOBAL TIMER = [4] ..............
+No process in Ready Q
+🕑 GLOBAL TIMER = [5] ..............
+No process in Ready Q
+Channel No 1 is done 
+
+Encountered Program card. P-Count1 PID2
+EOF 0
+Start Channel 1 Current IOI value 4
+🕑 GLOBAL TIMER = [6] ..............
+No process in Ready Q
+Start Channel 3 Current IOI value 0
+Channel 3 performs IS on  GD10PD10H                               
+storing at  0
+🕑 GLOBAL TIMER = [7] ..............
+No process in Ready Q
+🕑 GLOBAL TIMER = [8] ..............
+No process in Ready Q
+Channel No 3 is done 
+
+🕑 GLOBAL TIMER = [9] ..............
+No process in Ready Q
+🕑 GLOBAL TIMER = [10] ..............
+No process in Ready Q
+Channel No 1 is done 
+
+$DTA Encountered 
+EOF 0
+Start Channel 1 Current IOI value 4
+🕑 GLOBAL TIMER = [11] ..............
+No process in Ready Q
+Start Channel 3 Current IOI value 0
+Channel 3 performs IS on  $DTA                                    
+Encountered Control card $DTA
+🕑 GLOBAL TIMER = [12] ..............
+No process in Ready Q
+🕑 GLOBAL TIMER = [13] ..............
+No process in Ready Q
+Channel No 3 is done 
+
+🕑 GLOBAL TIMER = [14] ..............
+No process in Ready Q
+🕑 GLOBAL TIMER = [15] ..............
+No process in Ready Q
+Channel No 1 is done 
+
+Encountered Data card.
+EOF 0
+Start Channel 1 Current IOI value 4
+🕑 GLOBAL TIMER = [16] ..............
+No process in Ready Q
+Start Channel 3 Current IOI value 0
+Channel 3 performs IS on  Hello World                             
+storing at  10
+🕑 GLOBAL TIMER = [17] ..............
+No process in Ready Q
+🕑 GLOBAL TIMER = [18] ..............
+No process in Ready Q
+Channel No 3 is done 
+
+🕑 GLOBAL TIMER = [19] ..............
+No process in Ready Q
+🕑 GLOBAL TIMER = [20] ..............
+No process in Ready Q
+Channel No 1 is done 
+
+EOF 0
+Start Channel 1 Current IOI value 4
+🕑 GLOBAL TIMER = [21] ..............
+No process in Ready Q
+Start Channel 3 Current IOI value 0
+Channel 3 performs IS on  $END0002                                
+Encountered Control card $END
+
+#######  INPUT SPOOLING DONE  ####### 
+PCB of Job id  2
+
+Job added to Load queue PID2
+🕑 GLOBAL TIMER = [22] ..............
+No process in Ready Q
+🕑 GLOBAL TIMER = [23] ..............
+No process in Ready Q
+Channel No 3 is done 
+
+Start Channel 3 Current IOI value 0
+🕑 GLOBAL TIMER = [24] ..............
+
+ Executing Process... 
+Mapped IC 0 to RA 160
+Current TTC 1
+Page fault= Setting PI=3  
+🕑 GLOBAL TIMER = [25] ..............
+
+ Executing Process... 
+Mapped IC 0 to RA 160
+Current TTC 2
+Setting SI=1 
+Channel No 1 is done 
+
+Channel No 3 is done 
+
+Start Channel 3 Current IOI value 1
+EOF 1
+🕑 GLOBAL TIMER = [26] ..............
+
+ Executing Process... 
+Mapped IC 1 to RA 161
+Current TTC 3
+Setting SI=2 
+EOF 1
+🕑 GLOBAL TIMER = [27] ..............
+No process in Ready Q
+Channel No 3 is done 
+
+Start Channel 3 Current IOI value 1
+EOF 1
+🕑 GLOBAL TIMER = [28] ..............
+
+ Executing Process... 
+Mapped IC 2 to RA 162
+EOF 1
+🕑 GLOBAL TIMER = [29] ..............
+No process in Ready Q
+Channel No 3 is done 
+
+Start Channel 3 Current IOI value 1
+Start Channel 2 Current IOI value 1
+EOF 1
+🕑 GLOBAL TIMER = [30] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [31] ..............
+No process in Ready Q
+Channel No 3 is done 
+
+Start Channel 3 Current IOI value 1
+####### All output lines copied in OutputFull Q with an additonal line - 'ALL GOOD 👍' ####### 
+
+Start Channel 2 Current IOI value 1
+EOF 1
+🕑 GLOBAL TIMER = [32] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [33] ..............
+No process in Ready Q
+Channel No 3 is done 
+
+EOF 1
+🕑 GLOBAL TIMER = [34] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [35] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [36] ..............
+No process in Ready Q
+Channel No 2 is done 
+
+Start Channel 2 Current IOI value 5
+EOF 1
+🕑 GLOBAL TIMER = [37] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [38] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [39] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [40] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [41] ..............
+No process in Ready Q
+Channel No 2 is done 
+
+Start Channel 2 Current IOI value 5
+EOF 1
+🕑 GLOBAL TIMER = [42] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [43] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [44] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [45] ..............
+No process in Ready Q
+EOF 1
+🕑 GLOBAL TIMER = [46] ..............
+No process in Ready Q
+Channel No 2 is done 
+
+Start Channel 2 Current IOI value 5
+EOF 1
