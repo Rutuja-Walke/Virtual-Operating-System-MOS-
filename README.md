@@ -1,2 +1,5 @@
 # Virtual-Operating-System-MOS-
-The project includes the simulation of a hypothetical machine on a host computer system, and the design and implementation of a MOS for the simulated computer. A large number of compute-bound, balanced, and I/O bound sample jobs have been created and run on the simulated system. The main purpose of this project is to understand different implementations in Operating System.
+
+A virtual Operating System developed using c++. The OS can perform operations like reading string from the given program cards, performing operation on that string, moving data in and out of register and printing the final result to the output  file. 
+Phase 1 and 2: Batch operating System (performs one job at a time)
+Phase 3: Efficient in performance, uses auxilary space (drum) to pass input program cards.
